@@ -1,125 +1,125 @@
 language.code=ja-JP
 language=日本語
 //[Reference] 'Ooooh...'
-staxel.village.dialogue.CaithWitch.line:10000100=おぉ...
+staxel.village.dialogue.CaithWitch.line:10000100=あうぅ…
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'It...it's no use...'
-staxel.village.dialogue.CaithWitch.line:10000200=これは...これじゃあ使えない...
+staxel.village.dialogue.CaithWitch.line:10000200=も…もうダメ…
 //[Reference] '^c:1486b0;{0-name}^c:pop; can go no further...'
-staxel.village.dialogue.CaithWitch.line:10000300=^c:1486b0;{0-name}^c:pop;はこれ以上動けない...
+staxel.village.dialogue.CaithWitch.line:10000300=^c:1486b0;{0-name}^c:pop;はもう動けないよ…
 //[Reference] 'If only there was ^c:d03e37;ice cream^c:pop;...'
-staxel.village.dialogue.CaithWitch.line:10000400=^c:d03e37;アイスクリーム^c:pop;さえあれば...
+staxel.village.dialogue.CaithWitch.line:10000400=^c:d03e37;アイスクリーム^c:pop;さえあれば…
 //[Reference] '...'
-staxel.village.dialogue.CaithWitch.line:10000500=…
+staxel.village.dialogue.CaithWitch.line:10000500=...
 //[Reference] '...mya.'
-staxel.village.dialogue.CaithWitch.line:10000600=...ニャ.
+staxel.village.dialogue.CaithWitch.line:10000600=…ニャ。
 //[Reference] '^c:d03e37;Ice cream^c:pop;...'
-staxel.village.dialogue.CaithWitch.line:10000650=^c:d03e37;アイスクリーム^c:pop;...
+staxel.village.dialogue.CaithWitch.line:10000650=^c:d03e37;アイスクリーム^c:pop;…
 //[Reference] 'Oooh...'
-staxel.village.dialogue.CaithWitch.line:10000700=おぉ...
+staxel.village.dialogue.CaithWitch.line:10000700=うぅ…
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Would...would that ^c:d03e37;ice cream^c:pop; be for ^c:1486b0;{0-name}^c:pop;?'
-staxel.village.dialogue.CaithWitch.line:10000800=その...^c:d03e37;アイスクリーム^c:pop;は^c:1486b0;{0-name}^c:pop;のでしょうか？
+staxel.village.dialogue.CaithWitch.line:10000800=そ…その^c:d03e37;アイスクリーム^c:pop;、^c:1486b0;{0-name}^c:pop;にくれるの？
 //[Reference] 'Do you see anyone else?'
 staxel.village.dialogue.CaithWitch.line:10000900=他に誰か見える？
 //[Reference] 'Nope, just happen to be carrying it.'
-staxel.village.dialogue.CaithWitch.line:10001000=違うよ、運んでいるだけだよ。
+staxel.village.dialogue.CaithWitch.line:10001000=いや、運んでいるだけだよ。
 //[Reference] 'Oooh. ^c:1486b0;{0-name}^c:pop; can feel her energy returning!'
-staxel.village.dialogue.CaithWitch.line:10001100=おお、^c:1486b0;{0-name}^c:pop;は彼女のエネルギーが戻ってきたのを感じる！
+staxel.village.dialogue.CaithWitch.line:10001100=おお、^c:1486b0;{0-name}^c:pop;の元気が戻ってきた気がする！
 //[Reference] 'Oh... No. Maybe not yet...'
-staxel.village.dialogue.CaithWitch.line:10001200=どうしよう...多分まだだった...
+staxel.village.dialogue.CaithWitch.line:10001200=あれれ…まだダメかも…
 //[Reference] '^c:1486b0;{0-name}^c:pop; still needs ^c:d03e37;lemon pie^c:pop;... mya.'
-staxel.village.dialogue.CaithWitch.line:10001300=^c:1486b0;{0-name}^c:pop;はまだ^c:d03e37;レモンパイ^c:pop;が必要だ...ニャ。
+staxel.village.dialogue.CaithWitch.line:10001300=^c:1486b0;{0-name}^c:pop;にはまだ^c:d03e37;レモンパイ^c:pop;が必要…ニャ。
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] '^c:d03e37;Lemon pie^c:pop;...mya.'
-staxel.village.dialogue.CaithWitch.line:10001400=^c:d03e37;レモンパイ^c:pop;...ニャ。
+staxel.village.dialogue.CaithWitch.line:10001400=^c:d03e37;レモンパイ^c:pop;…ニャ。
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Is...is that ^c:d03e37;Lemon pie^c:pop; for ^c:1486b0;{0-name}^c:pop;?'
-staxel.village.dialogue.CaithWitch.line:10001500=ねえ...それって^c:1486b0;{0-name}^c:pop;への^c:d03e37;レモンパイ^c:pop;？
+staxel.village.dialogue.CaithWitch.line:10001500=ねえ…それって^c:1486b0;{0-name}^c:pop;の^c:d03e37;レモンパイ^c:pop;？
 //[Reference] 'Well I already gave you the ice cream...'
-staxel.village.dialogue.CaithWitch.line:10001600=ええと、もうアイスクリームは君にあげたよ...
+staxel.village.dialogue.CaithWitch.line:10001600=え、もう君にはアイスクリームをあげたでしょ…
 //[Reference] 'Pie? What pie?'
 staxel.village.dialogue.CaithWitch.line:10001700=パイ？パイだって？
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Mmm... Just right.'
-staxel.village.dialogue.CaithWitch.line:10001800=うーん...丁度いい。
+staxel.village.dialogue.CaithWitch.line:10001800=うーん…まあ、ちょうどいいか。
 //[Reference] 'Now all that's left is for you to surrender your soul to ^c:1486b0;{0-name}^c:pop;!'
-staxel.village.dialogue.CaithWitch.line:10001900=さあ、君に残されたのは^c:1486b0;{0-name}^c:pop;に魂を渡すことだ！
+staxel.village.dialogue.CaithWitch.line:10001900=さあ、あとは君の魂を^c:1486b0;{0-name}^c:pop;に寄こすのだぁ！
 //[Reference] 'No!'
-staxel.village.dialogue.CaithWitch.line:10002000=いやだ！
+staxel.village.dialogue.CaithWitch.line:10002000=断る！
 //[Reference] 'Absolutely not!'
 staxel.village.dialogue.CaithWitch.line:10002100=絶対に嫌だ！
 //[Reference] 'Maybe...'
-staxel.village.dialogue.CaithWitch.line:10002200=多分...
+staxel.village.dialogue.CaithWitch.line:10002200=また今度で…
 //[Reference] 'Well... I suppse in that case ^c:1486b0;{0-name}^c:pop; could make do with some ^c:d03e37;chocolate chip cookies^c:pop;.'
-staxel.village.dialogue.CaithWitch.line:10002300=うーん...そういうことなら^c:1486b0;{0-name}^c:pop;は^c:d03e37;チョコチップクッキー^c:pop;で済ませれるかもしれない。
+staxel.village.dialogue.CaithWitch.line:10002300=うーん…それなら^c:1486b0;{0-name}^c:pop;は^c:d03e37;チョコチップクッキー^c:pop;で何とかなるかもしれない。
 //[Reference] '^c:1486b0;{0-name}^c:pop; is willing to settle for ^c:d03e37;chocolate chip cookies^c:pop;.'
-staxel.village.dialogue.CaithWitch.line:10002400=^c:1486b0;{0-name}^c:pop;は喜んで^c:d03e37;チョコチップクッキー^c:pop;で手を打つだろう。
+staxel.village.dialogue.CaithWitch.line:10002400=^c:1486b0;{0-name}^c:pop;は^c:d03e37;チョコチップクッキー^c:pop;で手を打つのもやぶさかじゃないよ。
 //[Reference] 'Ah! Freshly ^c:d03e37;baked cookies^c:pop;!'
 staxel.village.dialogue.CaithWitch.line:10002500=あ！できたての^c:d03e37;クッキー^c:pop;だ！
 //[Reference] 'Hurry, hurry!'
-staxel.village.dialogue.CaithWitch.line:10002600=早く、急いで！
+staxel.village.dialogue.CaithWitch.line:10002600=早く、早く！
 //[Reference] 'Here.'
-staxel.village.dialogue.CaithWitch.line:10002700=ここだ。
+staxel.village.dialogue.CaithWitch.line:10002700=はいどうぞ。
 //[Reference] 'With what?'
-staxel.village.dialogue.CaithWitch.line:10002800=何と一緒に？
+staxel.village.dialogue.CaithWitch.line:10002800=え、何だって？
 //[Reference] 'Ah...! That is so much better mya!'
-staxel.village.dialogue.CaithWitch.line:10002900=あ...！これは全然いいニャ！
+staxel.village.dialogue.CaithWitch.line:10002900=ああ…！とってもうまいニャ！
 //[Reference] 'Perhaps a proper introduction?'
-staxel.village.dialogue.CaithWitch.line:10003000=もしかしてきちんとした紹介がいる？
+staxel.village.dialogue.CaithWitch.line:10003000=もしかしてちゃんとした自己紹介が必要かな？
 //[Reference] 'There aren't many people like ^c:1486b0;{0-name}^c:pop; out there!'
 staxel.village.dialogue.CaithWitch.line:10003100=^c:1486b0;{0-name}^c:pop;みたいな人は少ないんだよ！
 //[Reference] 'Father flew away so ^c:1486b0;{0-name}^c:pop; followed...'
-staxel.village.dialogue.CaithWitch.line:10003200=父が離れていったので^c:1486b0;{0-name}^c:pop;はついていった...
+staxel.village.dialogue.CaithWitch.line:10003200=父がどこかに飛んで行っちゃって^c:1486b0;{0-name}^c:pop;は追いかけたんだ…
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'But flying this far was a bit more...costly than expected...mya.'
-staxel.village.dialogue.CaithWitch.line:10003300=でもこんなに遠くまで飛ぶのは...思ったより高くついたニャ。
+staxel.village.dialogue.CaithWitch.line:10003300=でもこんなに遠くまで飛ぶのは…思ったより高くついたニャ。
 //[Reference] 'Would you happen to have seen him around?'
-staxel.village.dialogue.CaithWitch.line:10003400=もしかして彼を見かけませんでしたか？
+staxel.village.dialogue.CaithWitch.line:10003400=君は父を見かけなかった？
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'He's...a bit unusual. You might not recognise him right away.'
-staxel.village.dialogue.CaithWitch.line:10003500=彼は...少し変わっていてね。すぐには気が付かないかもしれない。
+staxel.village.dialogue.CaithWitch.line:10003500=父は…少し変わっていてね。すぐには見付けられないかもしれない。
 //[Reference] 'He tends to flap around a lot.'
-staxel.village.dialogue.CaithWitch.line:10003600=そこら辺でふらふらしていることが多いんだ。
+staxel.village.dialogue.CaithWitch.line:10003600=そこら辺をふらふらしていることが多いんだ。
 //[Reference] '^c:1486b0;{0-name}^c:pop; sees you ^c:1486b0;{1-playername}^c:pop;!'
-staxel.village.dialogue.CaithWitch.line:10003700=^c:1486b0;{0-name}^c:pop;はきみが^c:1486b0;{1-playername}^c:pop;を見たよ！
+staxel.village.dialogue.CaithWitch.line:10003700=^c:1486b0;{0-name}^c:pop;は^c:1486b0;{1-playername}^c:pop;を発見！
 //TODO Translate [Reference] 'Oh? What's this, ^c:1486b0;{0-playername}^c:pop;?'
-staxel.village.dialogue.CaithWitch.line:10003800=
+staxel.village.dialogue.CaithWitch.line:10003800=お？何これ、^c:1486b0;{0-playername}^c:pop;？
 //TODO Translate [Reference] 'A request? For ^c:1486b0;{0-name}^c:pop;?'
-staxel.village.dialogue.CaithWitch.line:10003900=
+staxel.village.dialogue.CaithWitch.line:10003900=頼みごと？^c:1486b0;{0-name}^c:pop;に？
 //TODO Translate [Reference] 'Hm hm. ^c:1486b0;{0-name}^c:pop; understands mya!'
-staxel.village.dialogue.CaithWitch.line:10004000=
+staxel.village.dialogue.CaithWitch.line:10004000=フムフム。^c:1486b0;{0-name}^c:pop;了解ニャ！
 //TODO Translate [Reference] '^c:1486b0;{0-name}^c:pop; never saw anyone matching that description in her travels.'
-staxel.village.dialogue.CaithWitch.line:10004100=
+staxel.village.dialogue.CaithWitch.line:10004100=^c:1486b0;{0-name}^c:pop;はこれまでの旅でこのメモに一致する人を見たことがないよ。
 //TODO Translate [Reference] 'But! ^c:1486b0;{0-name}^c:pop; does know a way to find missing people!'
-staxel.village.dialogue.CaithWitch.line:10004200=
+staxel.village.dialogue.CaithWitch.line:10004200=しかーし！^c:1486b0;{0-name}^c:pop;は尋ね人を見つける方法を知っている！
 //TODO Translate [Reference] 'It's how she ended up finding her way here in search of Father...mya.'
-staxel.village.dialogue.CaithWitch.line:10004300=
+staxel.village.dialogue.CaithWitch.line:10004300=父を探して辿り着いた道がここだから…ニャ。
 //TODO Translate [Reference] '^c:1486b0;{0-name}^c:pop; can scry! All that's needed is some kind of ^c:d03e37;catalyst^c:pop;...'
-staxel.village.dialogue.CaithWitch.line:10004400=
+staxel.village.dialogue.CaithWitch.line:10004400=^c:1486b0;{0-name}^c:pop;は占いができるんだよ！それには何か^c:d03e37;触媒^c:pop;が必要だけど…
 //TODO Translate [Reference] 'Here, ^c:1486b0;{0-name}^c:pop; will write down all the instructions for ^c:1486b0;Riah^c:pop;!'
-staxel.village.dialogue.CaithWitch.line:10004500=
+staxel.village.dialogue.CaithWitch.line:10004500=ここで^c:1486b0;{0-name}^c:pop;は^c:1486b0;リア^c:pop;宛てのメモを書いておくよ！
 //TODO Translate [Reference] 'Come back anytime! ^c:1486b0;{0-name}^c:pop; is always waiting!'
-staxel.village.dialogue.CaithWitch.line:10004600=
+staxel.village.dialogue.CaithWitch.line:10004600=いつでも戻ってきてね！^c:1486b0;{0-name}^c:pop;はずっと待ってるよ！
 //TODO Translate [Reference] 'Ahh, ^c:1486b0;{0-playername}^c:pop;! Back with a ^c:d03e37;catalyst^c:pop;?'
-staxel.village.dialogue.CaithWitch.line:10004700=
+staxel.village.dialogue.CaithWitch.line:10004700=あー^c:1486b0;{0-playername}^c:pop;！^c:d03e37;触媒^c:pop;を持ってきてくれたの？
 //TODO Translate [Reference] 'Yes, yes mya! This will work.'
-staxel.village.dialogue.CaithWitch.line:10004800=
+staxel.village.dialogue.CaithWitch.line:10004800=そう、これニャ！これならできるよ。
 //TODO Translate [Reference] '^c:1486b0;Cirahna^c:pop; will try to see what she can find with this.'
-staxel.village.dialogue.CaithWitch.line:10004900=
+staxel.village.dialogue.CaithWitch.line:10004900=^c:1486b0;{0-name}^c:pop;はこれで見つけられるか試してみるよ。
 //TODO Translate [Reference] 'Mmmya! I have her mya—'
-staxel.village.dialogue.CaithWitch.line:10005000=
+staxel.village.dialogue.CaithWitch.line:10005000=ン～ニャ！見えるニャ…
 //TODO Translate [Reference] 'I mean, I have her, ^c:1486b0;{0-playername}^c:pop;!'
-staxel.village.dialogue.CaithWitch.line:10005100=
+staxel.village.dialogue.CaithWitch.line:10005100=と言うか、見えます、^c:1486b0;{0-playername}^c:pop;が！
 //TODO Translate [Reference] 'That note should be all ^c:1486b0;Riah^c:pop; needs!'
-staxel.village.dialogue.CaithWitch.line:10005200=
+staxel.village.dialogue.CaithWitch.line:10005200=そのメモなら^c:1486b0;リア^c:pop;の希望に全部応えられるはずだよ！
 //TODO Translate [Reference] 'Now, for ^c:1486b0;Cirahna's^c:pop; payment... mya.'
-staxel.village.dialogue.CaithWitch.line:10005300=
+staxel.village.dialogue.CaithWitch.line:10005300=それで今度は、^c:1486b0;{0-name}^c:pop;に対価を…ニャ。
 //TODO Translate [Reference] 'Your sou—'
-staxel.village.dialogue.CaithWitch.line:10005400=
+staxel.village.dialogue.CaithWitch.line:10005400=君のたまし…
 //TODO Translate [Reference] 'Why are you already shaking your head like that mya?'
-staxel.village.dialogue.CaithWitch.line:10005500=
+staxel.village.dialogue.CaithWitch.line:10005500=なんでそんなに首を振るニャ？
 //TODO Translate [Reference] 'Fine mya! It was ^c:1486b0;Cirahna's^c:pop; fault for neglecting to discuss payment beforehand...'
-staxel.village.dialogue.CaithWitch.line:10005600=
+staxel.village.dialogue.CaithWitch.line:10005600=イイニャ！前もって対価について話してなかった^c:1486b0;{0-name}^c:pop;が悪いんだし…
 //TODO Translate [Reference] 'Maybe next time...'
-staxel.village.dialogue.CaithWitch.line:10005700=
+staxel.village.dialogue.CaithWitch.line:10005700=また今度ね…
